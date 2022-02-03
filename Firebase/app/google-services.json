@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446607317066",
+    "project_id": "fir-7d40b",
+    "storage_bucket": "fir-7d40b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446607317066:android:b626db7de4d6f731546eb3",
+        "android_client_info": {
+          "package_name": "com.novian_19104011.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446607317066-fn054c3tib26dcpfdvnc0uviohpsm1es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE7PACvvGbwo_2oeP519oQ4GcEE-zPdPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446607317066-fn054c3tib26dcpfdvnc0uviohpsm1es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
